@@ -1,0 +1,2 @@
+Main-Class: LibraryMngmnt
+Class-Path: sqlite34.jar
